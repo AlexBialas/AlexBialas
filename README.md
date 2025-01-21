@@ -26,7 +26,7 @@ I love collaborating and meeting new people! You can reach me at:
 
 Thanks for stopping by! Happy coding! 😊
 
-![Your Name's GitHub Snake](https://github.com/[YourGitHubUsername]/github-snake.svg)
+![Your Name's GitHub Snake](https://github.com/[AlexBialas]/github-snake.svg)
 
 
 
