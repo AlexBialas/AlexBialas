@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm Alex, a passionate Full-Stack developer with a
 
 ## 🚀 About Me
 
+👩‍💻 Alex | Fluent 🇩🇪 🇬🇧 🇵🇱| Full Stack Dev 💻 | MSc Project Manager 🎓| Dog Mom 🐾 | Sport Lover 🚴‍♂️ | Travel & Cooking 🍷✈️ | Moto Rider 🏍️ | 🏡Berlin
 
 🌱 Currently Learning: I'm student at DCI (Fullstack Developer), and learn JavaScript, HTML, CSS & React.
 
