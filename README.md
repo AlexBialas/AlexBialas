@@ -18,7 +18,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
