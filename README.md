@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm Alex, a passionate Full-Stack developer with a
 Here are some of the technologies and tools I work with:
 
 
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
@@ -31,7 +30,7 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap-4.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/000000/netlify.png" alt="Netlify" />
   <img src="https://img.icons8.com/color/48/000000/render.png" alt="Render" />
@@ -44,6 +43,9 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" />
   <img src="https://img.icons8.com/color/48/000000/ruby.png" alt="Ruby" />
 </p>
+
+
+
 
 
 ## 🤝 Let's Connect!
