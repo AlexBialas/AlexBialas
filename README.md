@@ -32,8 +32,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/000000/netlify.png" alt="Netlify" />
-  <img src="https://img.icons8.com/color/48/000000/render.png" alt="Render" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" />
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
