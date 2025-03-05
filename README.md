@@ -12,7 +12,39 @@ Welcome to my GitHub profile! I'm Alex, a passionate Full-Stack developer with a
 
 Here are some of the technologies and tools I work with:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/render-%2336C5F0.svg?style=for-the-badge&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-%2338B2AC.svg?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Shopify](https://img.shields.io/badge/shopify-%2331A24C.svg?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/wordpress-%232CAE69.svg?style=for-the-badge&logo=wordpress&logoColor=white) 
+
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap-4.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/000000/netlify.png" alt="Netlify" />
+  <img src="https://img.icons8.com/color/48/000000/render.png" alt="Render" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/shopify.png" alt="Shopify" />
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" />
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" />
+  <img src="https://img.icons8.com/color/48/000000/ruby.png" alt="Ruby" />
+</p>
+
 
 ## 🤝 Let's Connect!
 
