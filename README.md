@@ -32,9 +32,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/000000/shopify.png" alt="Shopify" />
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" />
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" />
 </p>
 
 
