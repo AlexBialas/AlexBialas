@@ -47,23 +47,6 @@ I'm **Alex**, a passionate **Full-Stack Developer** who loves coding and solving
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandrabialas&show_icons=true&theme=tokyonight" alt="Alex's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aleksandrabialas&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrabialas&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to collaboration and networking!  
