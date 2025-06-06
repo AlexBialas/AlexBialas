@@ -52,7 +52,7 @@ I'm **Alex**, a passionate **Full-Stack Developer** who loves coding and solving
 I'm always open to collaboration and networking!  
 Feel free to connect with me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/Alex%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-bialas-4a1037135/)
+[![LinkedIn]([https://img.shields.io/badge/Alex%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-bialas-4a1037135/](https://www.linkedin.com/in/a-bialas-full-stack/))
 
 ---
 
