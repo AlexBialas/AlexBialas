@@ -43,7 +43,6 @@ I'm **Alex**, a passionate **Full-Stack Developer** who loves coding and solving
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Tools" />
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google AI" />
   <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" />
-  <img src="https://img.icons8.com/color/48/000000/framer-motion.png" alt="Framer Motion" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
