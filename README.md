@@ -13,7 +13,7 @@ I'm **Alex**, a passionate **Full-Stack Developer** who loves coding and solving
 🐾 Dog Mom | 🚴‍♂️ Sport Lover | ✈️ Travel & Cooking Enthusiast | 🏍️ Moto Rider  
 📍 Based in **Berlin**
 
-###🎓 I'm a proud **graduate of DCI (Fullstack Development Program)** with strong foundations in:
+### 🎓 I'm a proud **graduate of DCI (Fullstack Development Program)** with strong foundations in:
 - JavaScript
 - HTML & CSS
 - React
