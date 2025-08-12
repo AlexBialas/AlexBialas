@@ -27,7 +27,7 @@ I'm **Alex**, a passionate **Full-Stack Developer** who loves coding and solving
 - Managing projects using **Scrum & Agile** methodologies
 
 ### 📜 Certificates
-- MERN Fullstack (Udemy)  
+- MERN Fullstack (Digital Career Institute)  
 - Scrum (GoodHabitz)  
 - Teamwork (GoodHabitz)  
 - AI & Python (Cursor AI)  
