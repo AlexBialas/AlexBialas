@@ -2,8 +2,9 @@
 
 Welcome to my GitHub profile.
 
-I'm **Alex** — a **Full-Stack Developer** with a strong focus on **process-driven systems, integrations, and data-informed decisions**.  
+I'm **Alex** — a **Full-Stack Developer** focused on **process-driven systems, integrations, and data-informed decisions**.  
 I build scalable web applications that connect **business logic, automation, and analytics**.
+
 
 ---
 
