@@ -79,7 +79,7 @@ I build scalable web applications that connect **business logic, automation, and
 
 ## 🌍 Languages
 
-🇬🇧 English | 🇩🇪 German (C1) | 🇵🇱 Polish
+🇬🇧 English (C1) | 🇩🇪 German (C1) | 🇵🇱 Polish (native)
 
 ---
 
