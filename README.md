@@ -54,7 +54,7 @@ Core Focus:
 Tech Stack:
 - Backend: Node.js, Express, MongoDB, MySQL
 - Frontend: React, Next.js, Tailwind
-- Automation & Data: APIs, Python, Pandas
+- Automation & Data: APIs, Python, Pandas, n8n / workflow automation
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" />
