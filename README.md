@@ -17,6 +17,15 @@ I build scalable web applications that connect **business logic, automation, and
 
 ---
 
+## 🚀 What I Actually Build (Business Impact)
+
+- HR onboarding & offboarding systems reducing manual work by 60–80%
+- Role-Based Access Control (RBAC) and approval workflows aligned with audit & compliance needs
+- API-driven systems integrating HRIS, internal tools, and analytics
+- Automation-first solutions replacing Excel-based processes
+
+---
+
 ## 🚀 What I Work On
 
 - Designing and developing **full-stack MERN applications** (React, TypeScript, Node.js)
@@ -27,21 +36,25 @@ I build scalable web applications that connect **business logic, automation, and
 
 ---
 
-## 🚧 What I'm Currently Building
+## 🛠 Currently Building
 
-- HR lifecycle platforms (onboarding, offboarding, access management)
-- Process automation and approval flows
-- Data dashboards for people & operational analytics
+- HR Onboarding & Access Automation Platform (Node.js, RBAC, audit logs)
+- Approval workflows & permissions management for internal systems
+- Data dashboards for HR & operations (process visibility & KPIs)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core Stack:** MERN, TypeScript  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, MongoDB, MySQL  
-**Data & Analytics:** Python, Pandas  
-**Tools & Workflow:** GitHub, Jira, Confluence, Figma
+Core Focus:
+- API-driven systems
+- Automation & workflows
+- RBAC & access management
+
+Tech Stack:
+- Backend: Node.js, Express, MongoDB, MySQL
+- Frontend: React, Next.js, Tailwind
+- Automation & Data: APIs, Python, Pandas
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" />
